@@ -1,7 +1,8 @@
 repo_name: ankurkumarz/awesome-workflow-engines
 report_id: 39cf1586f3ee405ba9489f3071ad6368
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T15:18:48+00:00'
+timestamp: '2024-01-05T08:24:56+00:00'
 requested_by: meirwah
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/awesome-workflow-engines
   detection_source: Repo Metadata
